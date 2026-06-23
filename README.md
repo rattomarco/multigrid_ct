@@ -3,4 +3,4 @@ Matlab code for the article Multigrid Methods for Computed Tomography. Symmetry.
 
 In order to run this code it is necessary to have the packages IRtools (https://people.compute.dtu.dk/pcha/IRtools/) and AIRtools II (https://people.compute.dtu.dk/pcha/AIRtoolsII/).
 
-The repository includes a test function, displaying results for the proposed method applied to a CT example (test_mgm_git)
+The repository includes a test function, displaying results for the proposed method applied to a CT example (test_mgm_git.m), as long as a function used to define the latter method.
